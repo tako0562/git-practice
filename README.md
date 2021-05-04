@@ -2,4 +2,4 @@
 Git-practice.
 MyGit-update.
 rebase-practicebranchで更新
-rebase-practice-conflict.
+rebase-practice-conflict(2nd).
